@@ -1,0 +1,8 @@
+title: Svenson
+description: flexible Java5 json parser / generator
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
